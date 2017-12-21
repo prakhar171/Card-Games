@@ -1,0 +1,35 @@
+<html>
+<body>
+<head>
+<body bgcolor="pink ">
+<basefont color="red">
+<marquee><h1>Grade 12th Project</h1></marquee>
+<hr color="red"></hr>
+<h1 align="center"></h1>
+<center><img src="logo.jpg"></center>
+<table border="4" cellspacing=3 cellpadding=6>
+<tr>
+<th>Name</th>
+<th>Class</th>
+<th>Registration number</th>
+</tr>
+<tr>
+<td>Prakhar</td>
+<td>XII=C</td>
+<td> </td>
+</tr>
+<tr>
+<td>Karan</td>
+<td>XII-C</td>
+<td> </td>
+</table>
+<ul>
+<li><a href="acknow.txt"><button>Acknowledgement</button></a>
+<li><a href="speci.txt"><button>Special thanks</button></a>
+
+</ul>
+<pre>
+
+
+</html>
+<li><a href=mailto:"a@gmail.com"?subject:"go away">contact us</a>
